@@ -10,5 +10,5 @@ def key_for_min_value(name_hash)
       collection = [a, b]
     end
   end
-  collection
+  collection[0]
 end

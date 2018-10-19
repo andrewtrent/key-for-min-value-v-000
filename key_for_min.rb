@@ -7,7 +7,8 @@ def key_for_min_value(name_hash)
     if collection == -1
       collection = a
     elsif collection > b
-      collection = a
+      collection =
+    end
   end
   collection
 end
